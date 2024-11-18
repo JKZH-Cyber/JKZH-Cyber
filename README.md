@@ -202,5 +202,5 @@ Nov. 2024 |  I'm currently pursuing the <a href="https://www.isc2.org/certificat
 ## Disclaimer
 **Please Note:** Some links connected to badges on this page may be outdated due to vendor changes on their website. I'm working on getting these updated. For current resources, please do your own research. 
 
-
+**Keep a cybersecurity mindset:** Do not click on a badge without verifying its hyperlink when applicable.
 
