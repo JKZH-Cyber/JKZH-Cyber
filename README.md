@@ -4,7 +4,7 @@
 
 - I currently work a full-time remote position as an Infrastructure Technician II; I respond daily to incidents for our various clients. 
 - Though this position is primarily remote, I go on-site to support our clients when there are network-related issues. 
-- I've recently been promoted from Infrastructure Technician I to Infrastructure Technician II, which technically provides Tier 3 support for our clients. 
+- After a year with my current employer, I was recently promoted from Infrastructure Technician I to Infrastructure Technician II. Based on my employer's current structure and hierarchy, I provide Tier 3 support for our clients. 
 
 
 <a href="https://linkedin.com/in/jkzhairston"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
