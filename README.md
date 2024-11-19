@@ -21,7 +21,7 @@
 
 | Skill(s) Shown                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| • Elastic • SIEM • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response      | Honeypot (EZ-Pot)                                             |
+| • ELK Stack (SIEM) • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response      | Honeypot (EZ-Pot)                                             |
 |         TBD      |       I will add more projects as I complete them.                                                     |
 |               |                                                            |
 |               |                                                            |
