@@ -22,11 +22,9 @@
 | Skill(s) Shown                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | • ELK Stack (SIEM) • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response      | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot) </a>                                           |
-|         TBD      |       I will add more projects as I complete them.                                                     |
-|               |                                                            |
-|               |                                                            |
-|               |                                                            |
-|               |                                                            |
+| • I'm actively working on proving the skills I've learned over the years. | I'll continue to add projects as I complete them.                                                     |
+|      •         |                                                            |
+
   
 
 ## Skills
@@ -138,7 +136,7 @@
 ### SIEM
 <div>
   <a href="https://cloud.google.com/products/chronicle" target="_blank"><img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Chronicle Badge"/></a>
-  <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Badge"/></a>
+  <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic Stack-005571?&style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Badge"/></a>
   <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel Badge"/></a>
   <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Badge"/></a>
 </div>
