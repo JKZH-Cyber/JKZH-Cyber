@@ -146,9 +146,11 @@
 
 ### Scripting / Command Line / Terminal
 <div>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/></a>
   <a href="https://www.microsoft.com/en-us/powershell" target="_blank"><img src="https://img.shields.io/badge/-PowerShell-2E2E2E?&style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python%20Basics-3776AB?&style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/></a>
 </div>
+
 
 ### Threat Detection, Intelligence, & Prevention
 <div>
