@@ -111,6 +111,7 @@
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure Badge"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/admin/admin-overview/admin-center-overview" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Admin%20Center-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Admin Center Badge"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"><img src="https://img.shields.io/badge/-Office%20365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Office 365 Badge"/></a>
+  <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/-Vultr-0080FF?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr Badge"/></a>
 </div>
 
 ### Communication
