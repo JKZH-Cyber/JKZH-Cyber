@@ -13,7 +13,7 @@
 
 ## Objective
 
-- I've developed an endlessly evolving passion and a better understanding of cybersecurity. With the experience, knowledge, and skills I've gained thus far, I'm confident I can take on the role of a Junior or Tier 1 cybersecurity analyst but am interested in any similar position as I continue to grow and learn both the defensive, offensive, and compliance aspects of cybersecurity. I'm interested in both full-time and contracted (6+ months) opportunities with the option to extend or become full-time. 
+- I've developed an endlessly evolving passion and a better understanding of cybersecurity. With the experience, knowledge, and skills I've gained thus far, I'm confident I can take on the role of an entry to mid-level cybersecurity analyst, but I am interested in any similar position as I continue to grow and learn both the defensive, offensive, and compliance aspects of cybersecurity. I'm interested in both full-time and contracted (6+ months) opportunities with the option to extend or become full-time. 
 
 
 ## Skills
