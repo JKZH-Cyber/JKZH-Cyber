@@ -21,7 +21,7 @@
 
 | Skill(s) Shown                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| • ELK Stack (SIEM) • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response      | Honeypot (EZ-Pot)                                             |
+| • ELK Stack (SIEM) • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response      | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot) </a>                                           |
 |         TBD      |       I will add more projects as I complete them.                                                     |
 |               |                                                            |
 |               |                                                            |
@@ -197,7 +197,7 @@ Nov. 2024 |  I'm currently pursuing the <a href="https://www.isc2.org/certificat
 </div>
 
 ## Projects
-- Honeypot Project (EZ-Pot)
+- <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project</a> 
 
 ## Disclaimer
 **Please Note:** Some links connected to badges on this page may be outdated due to vendor changes on their website. I'm working on getting these updated. For current resources, please do your own research. 
