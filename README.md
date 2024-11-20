@@ -21,7 +21,7 @@
 
 | Skill(s) Shown                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| • ELK Stack (SIEM) • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response      | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot) </a>                                           |
+| • Elastic stack • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response      | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot) </a>                                           |
 | • I'm actively working on proving the skills I've learned over the years. | I'll continue to add projects as I complete them.                                                     |
 |      •         |                                                            |
 
