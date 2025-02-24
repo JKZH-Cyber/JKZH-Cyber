@@ -189,7 +189,9 @@
 <a href="https://www.ivanti.com/products/ivanti-connect-secure" target="_blank">
   <img src="https://img.shields.io/badge/-Ivanti%20Pulse%20Secure-E03C31?&style=for-the-badge&logo=ivanti&logoColor=white" alt="Ivanti Pulse Secure Badge"/></a>
   <a href="https://openvpn.net/" target="_blank"><img src="https://img.shields.io/badge/-OpenVPN-0079E2?&style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" /></a>
-  
+<a href="https://www.sonicwall.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-SonicWall-1D5D6A?&style=for-the-badge&logo=sonicwall&logoColor=white" alt="SonicWall Badge"/></a>
+
 
 </div>
                                                                                                                                                                                                                                                                                                                                        
