@@ -111,11 +111,12 @@
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure Badge"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/admin/admin-overview/admin-center-overview" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Admin%20Center-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Admin Center Badge"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"><img src="https://img.shields.io/badge/-Office%20365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Office 365 Badge"/></a>
-  <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/-Vultr-0080FF?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr Badge"/></a>
 </div>
 
 ### Communication
 <div>
+  <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank">
+  <img src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?&style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams Badge"/></a>
   <a href="https://www.ringcentral.com/" target="_blank"><img src="https://img.shields.io/badge/-RingCentral-00B0D7?&style=for-the-badge&logo=ringcentral&logoColor=white" alt="RingCentral Badge"/></a>
 </div>
 
@@ -161,6 +162,9 @@
 ### Ticketing Systems
 <div>
   <a href="https://www.connectwise.com/" target="_blank"><img src="https://img.shields.io/badge/-ConnectWise-0093D6?&style=for-the-badge&logo=connectwise&logoColor=white" alt="ConnectWise Badge"/></a>
+<a href="https://www.nilear.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Nilear-0085CA?&style=for-the-badge&logoColor=white" alt="Nilear Badge"/></a>
+
 </div>
 
 ### Vulnerability Management
@@ -173,10 +177,20 @@
   <a href="https://www.cisco.com/c/en/us/products/security/duo.html" target="_blank"><img src="https://img.shields.io/badge/-Cisco%20Duo-1D7AA2?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Duo Badge"/></a>
 </div>
 
+### Virtualization
+<div>
+<a href="https://www.vmware.com/products/vsphere.html" target="_blank">
+  <img src="https://img.shields.io/badge/-vSphere-607078?&style=for-the-badge&logo=vmware&logoColor=white" alt="vSphere Badge"/></a>
+  <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/-Vultr-0080FF?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr Badge"/></a>
+</div>
+
 ### VPN
 <div>
   <a href="https://www.paloaltonetworks.com/cyberpedia/what-is-globalprotect" target="_blank"><img src="https://img.shields.io/badge/-GlobalProtect-003B49?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="GlobalProtect Badge"/></a>
+<a href="https://www.ivanti.com/products/ivanti-connect-secure" target="_blank">
+  <img src="https://img.shields.io/badge/-Ivanti%20Pulse%20Secure-E03C31?&style=for-the-badge&logo=ivanti&logoColor=white" alt="Ivanti Pulse Secure Badge"/></a>
   <a href="https://openvpn.net/" target="_blank"><img src="https://img.shields.io/badge/-OpenVPN-0079E2?&style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" /></a>
+  
 
 </div>
                                                                                                                                                                                                                                                                                                                                        
