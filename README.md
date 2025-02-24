@@ -201,7 +201,7 @@
 <a href="https://www.credly.com/badges/46191b34-469a-4d29-bc71-e8e74a252bff" target="_blank"><img src="https://img.shields.io/badge/-CompTIA Network%2B-1841f5?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+ Badge"/></a>
 <a href="https://www.credly.com/badges/7661deae-6d01-4e95-9214-6563f7a43ff9" target="_blank"><img src="https://img.shields.io/badge/-CompTIA A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Badge"/></a>
 <img src="https://img.shields.io/badge/-ITIL%20v4%20Foundations-6A0DAD?&style=for-the-badge"/>
-<a href="https://www.credly.com/earner/earned/badge/49bca280-60a2-4101-94d1-f6de0ac046bf" target="_blank"> <img src="https://img.shields.io/badge/-Associate of ISC2 (SSCP)-FF5733?&style=for-the-badge&logo=isc2&logoColor=white" alt="SSCP Badge"/></a>
+<a href="https://www.credly.com/badges/49bca280-60a2-4101-94d1-f6de0ac046bf" target="_blank"> <img src="https://img.shields.io/badge/-Associate of ISC2 (SSCP)-FF5733?&style=for-the-badge&logo=isc2&logoColor=white" alt="SSCP Badge"/></a>
 <a href="https://www.credly.com/earner/earned/badge/b20cff43-baa8-461c-ac60-aa07cf2abd31" target="_blank"><img src="https://img.shields.io/badge/-Google%20IT%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google IT Professional Badge"/></a>
 <a href="https://www.credly.com/earner/earned/badge/f4fdad42-59d4-4932-a802-e89ca59727e4" target="_blank"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge"/></a>
 </div>
