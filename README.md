@@ -156,6 +156,7 @@
   <a href="https://www.mimecast.com/" target="_blank"><img src="https://img.shields.io/badge/-Mimecast-95C5A2?&style=for-the-badge&logo=mimecast&logoColor=white" alt="Mimecast Badge"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/security" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Defender-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender Badge"/></a>
   <a href="https://www.proofpoint.com/" target="_blank"><img src="https://img.shields.io/badge/-Proofpoint-4A90E2?&style=for-the-badge&logo=proofpoint&logoColor=white" alt="Proofpoint Badge"/></a>
+  <a href="https://www.malwarebytes.com/threatdown" target="_blank"><img src="https://img.shields.io/badge/-ThreatDown-0077FF?&style=for-the-badge&logo=malwarebytes&logoColor=white" alt="ThreatDown Badge"/></a>
 </div>
 
 ### Ticketing Systems
