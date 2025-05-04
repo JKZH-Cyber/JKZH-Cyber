@@ -21,7 +21,7 @@
 | Skill(s) Shown                                                                                                                                     | Associated Project         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | • Elastic stack • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot)</a> |
-| • Web Application Security • Ethical Hacking Workflow • Cloud Infrastructure Setup • Vulnerability Scanning (DAST) • Traffic Interception • Manual Exploitation | <a href="https://github.com/JKZH-Cyber/Red-Team-DVWA-Project">Red Team DVWA Project</a> |
+| • Web Application Security • Ethical Hacking Workflow • Cloud Infrastructure Deployment & Hardening • Dynamic Application Security Testing (DAST) • Vulnerability Scanning (Network & Application-Level) • HTTP Traffic Interception & Analysis • Manual Exploitation Techniques (e.g., SQL Injection) | <a href="https://github.com/JKZH-Cyber/Red-Team-DVWA-Project">Red Team DVWA Project</a> |
 | • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.                                | <a href="https://letsdefend.io">LetsDefend</a>        |
 
 ## Skills
