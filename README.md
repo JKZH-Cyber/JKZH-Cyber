@@ -21,7 +21,7 @@
 | Skill(s) Shown                                                                                                                                     | Associated Project         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | • Elastic stack • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot)</a> |
-| • Web Application Security • Ethical Hacking Workflow • Cloud Infrastructure Deployment & Hardening • Dynamic Application Security Testing (DAST) • Vulnerability Scanning (Network & Application-Level) • HTTP Traffic Interception & Analysis • Manual Exploitation Techniques (e.g., SQL Injection) | <a href="https://github.com/JKZH-Cyber/Red-Team-DVWA-Project">Red Team DVWA Project</a> |
+| • Web Application Security • Ethical Hacking Workflow • Cloud Infrastructure Deployment & Hardening • Dynamic Application Security Testing (DAST) • Vulnerability Scanning (Network & Application-Level) • HTTP Traffic Interception & Analysis • Manual Exploitation Techniques (e.g., SQL Injection) | <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a> |
 | • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.                                | <a href="https://letsdefend.io">LetsDefend</a>        |
 
 ## Skills
@@ -233,6 +233,7 @@ Jan. 2025 | Passed ISC2 SSCP certificate on January 18th, 2025.
 
 ## Projects
 - <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project</a> 
+- <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a>
 
 ## Disclaimer
 **Please Note:** Some links connected to badges on this page may be outdated due to vendor changes on their website. I'm working on getting these updated. For current resources, please do your own research. 
