@@ -1,4 +1,4 @@
-# Welcome! I'm Jonathan | I'm an IT Professional
+# Welcome! I'm Jonathan | I'm an Infrastructure Security Professional
 
 ## Current Position
 
