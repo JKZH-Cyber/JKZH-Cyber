@@ -132,6 +132,21 @@
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge"/></a>
 </div>
 
+### Red Team Tools (DVWA Project)
+###### Tools highlighted from Red Team DVWA Project
+<!-- Tools highlighted from Red Team DVWA Project -->
+<div>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Badge"/></a>
+  <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/-Vultr-0080FF?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr Badge"/></a>
+  <a href="https://github.com/digininja/DVWA" target="_blank"><img src="https://img.shields.io/badge/-DVWA-444444?&style=for-the-badge&logo=php&logoColor=white" alt="DVWA Badge"/></a>
+  <a href="https://nmap.org" target="_blank"><img src="https://img.shields.io/badge/-Nmap-00B5E2?&style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap Badge"/></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/-Burp%20Suite-E34F26?&style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite Badge"/></a>
+  <a href="https://www.zaproxy.org/" target="_blank"><img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?&style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP Badge"/></a>
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/-Metasploit-2F3A4D?&style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit Badge"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge"/></a>
+</div>
+
+
 ### SIEM
 <div>
   <a href="https://cloud.google.com/products/chronicle" target="_blank"><img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Chronicle Badge"/></a>
