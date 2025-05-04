@@ -16,13 +16,14 @@
 -  I am an experienced Infrastructure Security Technician with a strong foundation in cybersecurity and an ongoing passion for learning and growth in the field. With a diverse skill set spanning from network security and threat detection to incident response, I am confident in my ability to contribute towards and continue to learn in both defensive and offensive cybersecurity efforts. I possess a solid understanding of industry frameworks such as NIST and am proficient in security and management tools like network scanners, MDR/EDR platforms, SIEM solutions, Azure, and others. My technical expertise includes Cloud Security, PowerShell, SQL, Firewalls, VPN, and various network monitoring tools like Wireshark, and Cisco Meraki. I also have experience with vulnerability management using tools like Nessus, and multi-factor authentication platforms like Cisco Duo. My ultimate goal is to make a meaningful impact while further developing my skills in the defensive, offensive, and compliance aspects of cybersecurity.
 
 
-## Skills
+## Practical Projects
 
-
-| Skill(s) Shown                              | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| • Elastic stack • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response      | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot) </a>                                           |
-|      • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.      |    <a href="https://letsdefend.io">LetsDefend </a>                          |
+| Skill(s) Shown                                                                                                                                     | Associated Project         |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| • Elastic stack • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot)</a> |
+| • Web Application Security • Ethical Hacking Workflow • Cloud Infrastructure Setup • Vulnerability Scanning (DAST) • Traffic Interception • Manual Exploitation | <a href="https://github.com/JKZH-Cyber/Red-Team-DVWA-Project">Red Team DVWA Project</a> |
+| • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.                                | <a href="https://letsdefend.io">LetsDefend</a>        |
+                       |
 
   
 
