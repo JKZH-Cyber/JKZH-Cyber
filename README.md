@@ -22,7 +22,7 @@
 | Skill(s) Shown                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | • Elastic stack • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response      | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot) </a>                                           |
-|      • Been actively working on LetsDefend Labs to gain and prove knowledge.        |    <a href="https://letsdefend.io">LetsDefend </a>                          |
+|      • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.      |    <a href="https://letsdefend.io">LetsDefend </a>                          |
 
   
 
