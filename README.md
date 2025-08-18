@@ -17,9 +17,10 @@
 
 ## Current Position
 
-- I currently work a full-time remote position as an Infrastructure Technician II; I respond daily to incidents for our various clients. 
-- Though this position is primarily remote, I go on-site to support our clients when there are network-related issues. 
-- After a year with my current employer, I was recently promoted from Infrastructure Technician I to Infrastructure Technician II. Based on my employer's current structure and hierarchy, I provide Tier 3 support for our clients. 
+- I work full-time remotely as an Infrastructure Technician II with a focus on Security and Networks, providing Tier 3 support across multiple client environments.
+- I respond to incidents daily, analyzing and resolving issues that impact network, systems, and security operations.
+- While primarily remote, I also provide on-site support for complex networking and infrastructure challenges.
+- Promoted from Infrastructure Technician I after one year, I now operate in a senior capacity, handling escalations and supporting incident resolution for business-critical systems.
 
 
 <a href="https://linkedin.com/in/jkzhairston"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -28,7 +29,11 @@
 
 ## Who am I?
 
--  I am an experienced Infrastructure Security Technician with a strong foundation in cybersecurity and an ongoing passion for learning and growth in the field. With a diverse skill set spanning from network security and threat detection to incident response, I am confident in my ability to contribute towards and continue to learn in both defensive and offensive cybersecurity efforts. I possess a solid understanding of industry frameworks such as NIST and am proficient in security and management tools like network scanners, MDR/EDR platforms, SIEM solutions, Azure, and others. My technical expertise includes Cloud Security, PowerShell, SQL, Firewalls, VPN, and various network monitoring tools like Wireshark, and Cisco Meraki. I also have experience with vulnerability management using tools like Nessus, and multi-factor authentication platforms like Cisco Duo. My ultimate goal is to make a meaningful impact while further developing my skills in the defensive, offensive, and compliance aspects of cybersecurity.
+I am an Infrastructure Security Technician with hands-on experience in cybersecurity and a passion for continuous learning. My work spans network security, threat detection, and incident response, with exposure to both defensive and offensive practices.
+
+I work with industry frameworks such as NIST and tools including SIEM platforms, MDR/EDR, Azure, Nessus, Cisco Duo, and Wireshark. My technical background also covers cloud security, PowerShell, SQL, firewalls, VPNs, and network monitoring solutions like Cisco Meraki.
+
+My goal is to make a meaningful impact by securing critical infrastructure, while growing my expertise across defense, offensive testing, and compliance domains.
 
 
 ## Practical Projects
@@ -38,7 +43,7 @@
 | • Elastic stack • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot)</a> |
 | • Web Application Security • Ethical Hacking Workflow • Cloud Infrastructure Deployment & Hardening • Dynamic Application Security Testing (DAST) • Vulnerability Scanning (Network & Application-Level) • HTTP Traffic Interception & Analysis • Manual Exploitation Techniques (e.g., SQL Injection) | <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a> |
 | • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.                                | <a href="https://letsdefend.io">LetsDefend</a>        |
-| • Cloud Security Deployment • Security Event Monitoring • KQL Querying and Log Analysis • SIEM Dashboards and Visualization • Incident Response Preparation | <a href="https://github.com/JKZH-Cyber/JKZH-Azure-Sentinel-Honeypot-Project">Azure-Sentinel Honeypot Project</a> |
+| • Cloud Security Deployment • Security Event Monitoring • KQL Querying and Log Analysis • SIEM Dashboards and Visualization • Incident Response Preparation | <a href="https://github.com/JKZH-Cyber/JKZH-Azure-Sentinel-Honeypot-Project">Azure Sentinel Honeypot Project</a> |
 
 ## Skills
 
@@ -250,6 +255,8 @@ Jan. 2025 | Passed ISC2 SSCP certificate on January 18th, 2025.
 ## Projects
 - <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project</a> 
 - <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a>
+- <a href="https://github.com/JKZH-Cyber/JKZH-Azure-Sentinel-Honeypot-Project">Azure Sentinel Honeypot Project</a>
+
 
 ## Disclaimer
 **Please Note:** Some links connected to badges on this page may be outdated due to vendor changes on their website. I'm working on getting these updated. For current resources, please do your own research. 
