@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=56&reversal=true&animation=scaleIn" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7d63ff,100:0057b8&section=header" alt="header"/>
 </p>
+
+
+
+
 
 
 <p align="center">
@@ -263,5 +267,6 @@ Jan. 2025 | Passed ISC2 SSCP certificate on January 18th, 2025.
 **Keep a cybersecurity mindset:** Do not click on a badge without verifying its hyperlink when applicable.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&descAlignY=56&reversal=false&animation=scaleIn&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7d63ff,100:0057b8&section=footer" alt="footer"/>
 </p>
+
