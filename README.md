@@ -18,25 +18,25 @@
 
 ---
 
-## Current Position
-
-- I work full-time remotely as an Infrastructure Technician II with a focus on Security and Networks, providing Tier 3 support across multiple client environments.
-- I respond to incidents daily, analyzing and resolving issues that impact network, systems, and security operations.
-- While primarily remote, I also provide on-site support for complex networking and infrastructure challenges.
-- Promoted from Infrastructure Technician I after one year, I now operate in a senior capacity, handling escalations and supporting incident resolution for business-critical systems.
-
-
-<a href="https://linkedin.com/in/jkzhairston"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
-
-
 ## Who am I?
 
 I am an Infrastructure Security Technician with hands-on experience in cybersecurity and a passion for continuous learning. My work spans network security, threat detection, and incident response, with exposure to both defensive and offensive practices.
 
 I work with industry frameworks such as NIST and tools including SIEM platforms, MDR/EDR, Azure, Nessus, Cisco Duo, and Wireshark. My technical background also covers cloud security, PowerShell, SQL, firewalls, VPNs, and network monitoring solutions like Cisco Meraki.
 
-My goal is to make a meaningful impact by securing critical infrastructure, while growing my expertise across defense, offensive testing, and compliance domains.
+My goal is to continue making a meaningful impact by securing critical infrastructure, while growing my expertise across defense, offensive testing, and compliance domains.
+
+
+<a href="https://linkedin.com/in/jkzhairston"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
+
+
+## Current Position
+
+- I work full-time remotely as an Infrastructure Technician II with a focus on Security and Networks, providing Tier 3 support across multiple client environments.
+- I respond to incidents daily, analyzing and resolving issues that impact network, systems, and security operations.
+- While primarily remote, I also provide on-site support for complex networking and infrastructure challenges.
+- Promoted from Infrastructure Technician I after one year, I now operate in a senior capacity, handling escalations and supporting incident resolution for business-critical systems.
 
 
 ## Practical Projects
