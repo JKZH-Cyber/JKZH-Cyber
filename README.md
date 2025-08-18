@@ -1,4 +1,19 @@
-# Welcome! I'm Jonathan | I'm an Infrastructure Security Professional
+<p align="center">
+<img width="300" height="50" alt="JH" src="https://github.com/user-attachments/assets/7f15b376-a14e-47c5-af28-ada553d5a0ec" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Code&size=30&color=7d63ff&center=true&vCenter=true&width=900&height=100&lines=welcome+to+my+github;infrastructure+security+professional;always+learning+%7C+always+adapting;test+%7C+break+%7C+secure;simulate+%7C+detect+%7C+defend;detect+%7C+respond+%7C+adapt;govern+%7C+assess+%7C+comply" alt="Typing SVG">
+  </a>
+</p>
+
+
+
+
+
+---
 
 ## Current Position
 
