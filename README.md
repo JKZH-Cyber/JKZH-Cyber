@@ -45,8 +45,10 @@ My goal is to continue making a meaningful impact by securing critical infrastru
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | • Elastic stack • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot)</a> |
 | • Web Application Security • Ethical Hacking Workflow • Cloud Infrastructure Deployment & Hardening • Dynamic Application Security Testing (DAST) • Vulnerability Scanning (Network & Application-Level) • HTTP Traffic Interception & Analysis • Manual Exploitation Techniques (e.g., SQL Injection) | <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a> |
-| • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.                                | <a href="https://letsdefend.io">LetsDefend</a>        |
 | • Cloud Security Deployment • Security Event Monitoring • KQL Querying and Log Analysis • SIEM Dashboards and Visualization • Incident Response Preparation | <a href="https://github.com/JKZH-Cyber/JKZH-Azure-Sentinel-Honeypot-Project">Azure Sentinel Honeypot Project</a> |
+| • Active Directory Deployment • Group Policy Enforcement • Role-Based Access Control (RBAC) • Security Baseline Hardening • RMF/eMASS Control Mapping • Audit & Log Management • Privileged Access Management • Cloud Infrastructure Decommissioning | <a href="https://github.com/JKZH-Cyber/AD-DS-RMF-eMASS-Mapping-Project">AD DS RMF/eMASS Mapping Project</a> |
+| • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.                                | <a href="https://letsdefend.io">LetsDefend</a>        |
+
 
 ## Skills
 
@@ -246,25 +248,20 @@ My goal is to continue making a meaningful impact by securing critical infrastru
 
 </div>
 
-
-## Learning, goals, and accomplishments. 
-Nov. 2024 |  I'm currently pursuing the <a href="https://www.isc2.org/certifications/sscp">ISC2 SSCP</a> certification, which I plan to take around the new year of 2025. 
-
-Jan. 2025 | Passed ISC2 SSCP certificate on January 18th, 2025. 
-
-
 </div>
 
 ## Projects
-- <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project</a> 
-- <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a>
-- <a href="https://github.com/JKZH-Cyber/JKZH-Azure-Sentinel-Honeypot-Project">Azure Sentinel Honeypot Project</a>
+- <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project</a>  
+- <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a>  
+- <a href="https://github.com/JKZH-Cyber/JKZH-Azure-Sentinel-Honeypot-Project">Azure Sentinel Honeypot Project</a>  
+- <a href="https://github.com/JKZH-Cyber/AD-DS-RMF-eMASS-Mapping-Project">AD DS RMF/eMASS Mapping Project</a>  
+
 
 
 ## Disclaimer
-**Please Note:** Some links connected to badges on this page may be outdated due to vendor changes on their website. I'm working on getting these updated. For current resources, please do your own research. 
+All projects in this portfolio were built in controlled lab environments strictly for educational and skill development purposes. No sensitive or production data was used, and all resources were fully decommissioned before being made public.  
 
-**Keep a cybersecurity mindset:** Do not click on a badge without verifying its hyperlink when applicable.
+Some badge links may become outdated due to vendor site changes. Please verify links before clicking and consult trusted sources for the most up-to-date information.  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7d63ff,100:0057b8&section=footer" alt="footer"/>
