@@ -39,7 +39,7 @@ My goal is to continue making a meaningful impact by securing critical infrastru
 - Promoted from Infrastructure Technician I after one year, I now operate in a senior capacity, handling escalations and supporting incident resolution for business-critical systems.
 
 
-## Practical Projects
+## Practical Projects & Labs
 
 | Skill(s) Shown                                                                                                                                     | Associated Project         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
