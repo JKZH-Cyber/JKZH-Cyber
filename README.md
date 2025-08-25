@@ -46,8 +46,9 @@ My goal is to continue making a meaningful impact by securing critical infrastru
 | • Elastic stack • Firewall Configuration • Cloud Infrastructure Management • Cyber Threat Intelligence Collection • Security Monitoring and Analysis • Threat Mitigation and Hardening • Linux/Unix System Administration • Incident Response | <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project (EZ-Honeypot)</a> |
 | • Web Application Security • Ethical Hacking Workflow • Cloud Infrastructure Deployment & Hardening • Dynamic Application Security Testing (DAST) • Vulnerability Scanning (Network & Application-Level) • HTTP Traffic Interception & Analysis • Manual Exploitation Techniques (e.g., SQL Injection) | <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a> |
 | • Cloud Security Deployment • Security Event Monitoring • KQL Querying and Log Analysis • SIEM Dashboards and Visualization • Incident Response Preparation | <a href="https://github.com/JKZH-Cyber/JKZH-Azure-Sentinel-Honeypot-Project">Azure Sentinel Honeypot Project</a> |
-| • Active Directory Deployment • Group Policy Enforcement • Role-Based Access Control (RBAC) • Security Baseline Hardening • RMF/eMASS Control Mapping • Audit & Log Management • Privileged Access Management • Cloud Infrastructure Decommissioning | <a href="https://github.com/JKZH-Cyber/AD-DS-RMF-eMASS-Mapping-Project">AD DS RMF/eMASS Mapping Project</a> |
+| • Active Directory Deployment • Group Policy Enforcement • Role-Based Access Control (RBAC) • Security Baseline Hardening • RMF/eMASS Control Mapping • Audit & Log Management • Privileged Access Management • Cloud Infrastructure Decommissioning | <a href="https://github.com/JKZH-Cyber/AD-DS-RMF-Control-Mapping-Project-with-eMASS-Alignment">AD DS RMF Mapping Project with alignment to eMASS</a> |
 | • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.                                | <a href="https://letsdefend.io">LetsDefend</a>        |
+
 
 
 ## Skills
@@ -254,8 +255,7 @@ My goal is to continue making a meaningful impact by securing critical infrastru
 - <a href="https://github.com/JKZH-Cyber/Honeypot-Project">Honeypot Project</a>  
 - <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a>  
 - <a href="https://github.com/JKZH-Cyber/JKZH-Azure-Sentinel-Honeypot-Project">Azure Sentinel Honeypot Project</a>  
-- <a href="https://github.com/JKZH-Cyber/AD-DS-RMF-eMASS-Mapping-Project">AD DS RMF/eMASS Mapping Project</a>  
-
+- <a href="https://github.com/JKZH-Cyber/AD-DS-RMF-Control-Mapping-Project-with-eMASS-Alignment">AD DS RMF Mapping Project</a>  
 
 
 ## Disclaimer
