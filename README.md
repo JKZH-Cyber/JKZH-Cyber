@@ -47,7 +47,8 @@ My goal is to continue making a meaningful impact by securing critical infrastru
 | • Web Application Security • Ethical Hacking Workflow • Cloud Infrastructure Deployment & Hardening • Dynamic Application Security Testing (DAST) • Vulnerability Scanning (Network & Application-Level) • HTTP Traffic Interception & Analysis • Manual Exploitation Techniques (e.g., SQL Injection) | <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a> |
 | • Cloud Security Deployment • Security Event Monitoring • KQL Querying and Log Analysis • SIEM Dashboards and Visualization • Incident Response Preparation | <a href="https://github.com/JKZH-Cyber/JKZH-Azure-Sentinel-Honeypot-Project">Azure Sentinel Honeypot Project</a> |
 | • Active Directory Deployment • Group Policy Enforcement • Role-Based Access Control (RBAC) • Security Baseline Hardening • RMF/eMASS Control Mapping • Audit & Log Management • Privileged Access Management • Cloud Infrastructure Decommissioning | <a href="https://github.com/JKZH-Cyber/AD-DS-RMF-Control-Mapping-Project-with-eMASS-Alignment">AD DS RMF Mapping Project with alignment to eMASS</a> |
-| • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.                                | <a href="https://letsdefend.io">LetsDefend</a>        |
+| • Linux Server Hardening • SELinux Enforcement • SSH Configuration • Credentialed Vulnerability Scanning • Risk Remediation • Compliance Alignment with NIST 800-53 Principles | <a href="https://github.com/JKZH-Cyber/JKZH-Red-Hat-Enterprise-Linux-10-Vulnerability-Scanning-and-Remediation">Red Hat Enterprise Linux 10 Vulnerability Scanning & Remediation</a> |
+| • Monitored real-time security alerts, performed triage, and investigated incidents in a simulated SOC environment.                                | <a href="https://letsdefend.io">LetsDefend</a>  
 
 
 
@@ -120,132 +121,105 @@ My goal is to continue making a meaningful impact by securing critical infrastru
 </div>
 
 
-## Related Tools Used
+## Related Tools & Platforms
 
-### Antivirus
+### Operating Systems
 <div>
-  <a href="https://www.crowdstrike.com/" target="_blank"><img src="https://img.shields.io/badge/-CrowdStrike-2C5C7E?&style=for-the-badge&logo=crowdstrike&logoColor=white" alt="CrowdStrike Badge"/></a>
-  <a href="https://www.webroot.com/" target="_blank"><img src="https://img.shields.io/badge/-Webroot-FF6F00?&style=for-the-badge&logo=webroot&logoColor=white" alt="Webroot Badge"/></a>
-  <a href="https://www.sophos.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/-Sophos-6F00FF?&style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos Badge"/></a>
+  <img src="https://img.shields.io/badge/-Windows%2010/11-0078D6?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10/11"/>
+  <img src="https://img.shields.io/badge/-Windows%20Server%202019%2F2022-0078D6?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/-Red%20Hat%20Enterprise%20Linux-EE0000?&style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL"/>
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </div>
 
-### Cloud
+### Endpoint & AV
 <div>
-  <a href="https://www.google.com/workspace/admin" target="_blank"><img src="https://img.shields.io/badge/-Google%20Workspace%20Admin-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace Admin Badge"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure Badge"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/admin/admin-overview/admin-center-overview" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Admin%20Center-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Admin Center Badge"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"><img src="https://img.shields.io/badge/-Office%20365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Office 365 Badge"/></a>
+  <a href="https://www.crowdstrike.com/" target="_blank"><img src="https://img.shields.io/badge/-CrowdStrike-2C5C7E?&style=for-the-badge&logo=crowdstrike&logoColor=white" alt="CrowdStrike"/></a>
+  <a href="https://www.webroot.com/" target="_blank"><img src="https://img.shields.io/badge/-Webroot-FF6F00?&style=for-the-badge&logo=webroot&logoColor=white" alt="Webroot"/></a>
+  <a href="https://www.sophos.com/" target="_blank"><img src="https://img.shields.io/badge/-Sophos-6F00FF?&style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos"/></a>
+  <a href="https://www.malwarebytes.com/threatdown" target="_blank"><img src="https://img.shields.io/badge/-ThreatDown-0077FF?&style=for-the-badge&logo=malwarebytes&logoColor=white" alt="ThreatDown"/></a>
 </div>
 
-### Communication
+### Vulnerability & Hardening
 <div>
-  <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank">
-  <img src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?&style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams Badge"/></a>
-  <a href="https://www.ringcentral.com/" target="_blank"><img src="https://img.shields.io/badge/-RingCentral-00B0D7?&style=for-the-badge&logo=ringcentral&logoColor=white" alt="RingCentral Badge"/></a>
+  <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.shields.io/badge/-Nessus-71B500?&style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus"/></a>
+  <a href="https://firewalld.org/" target="_blank"><img src="https://img.shields.io/badge/-firewalld-5C6BC0?&style=for-the-badge" alt="firewalld"/></a>
+  <a href="https://www.openssh.com/" target="_blank"><img src="https://img.shields.io/badge/-OpenSSH-333333?&style=for-the-badge&logo=openssh&logoColor=white" alt="OpenSSH"/></a>
+</div>
+
+### Cloud & Identity
+<div>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/admin" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="M365"/></a>
+  <a href="https://www.cisco.com/c/en/us/products/security/duo.html" target="_blank"><img src="https://img.shields.io/badge/-Cisco%20Duo-1D7AA2?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Duo"/></a>
+  <a href="https://www.quest.com/products/active-roles/" target="_blank"><img src="https://img.shields.io/badge/-Quest%20Active%20Roles-FF5722?&style=for-the-badge&logo=dell&logoColor=white" alt="Quest"/></a>
+</div>
+
+### Networking & Monitoring
+<div>
+  <a href="https://www.meraki.com/" target="_blank"><img src="https://img.shields.io/badge/-Cisco%20Meraki-008C42?&style=for-the-badge&logo=cisco&logoColor=white" alt="Meraki"/></a>
+  <a href="https://www.arubanetworks.com/" target="_blank"><img src="https://img.shields.io/badge/-Aruba%20Networks-0075B8?&style=for-the-badge&logo=hewlettpackardenterprise&logoColor=white" alt="Aruba"/></a>
+  <a href="https://www.ui.com/" target="_blank"><img src="https://img.shields.io/badge/-Ubiquiti-0073B7?&style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti"/></a>
+  <a href="https://www.nmap.org/" target="_blank"><img src="https://img.shields.io/badge/-Nmap-00B5E2?&style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
+</div>
+
+### SIEM
+<div>
+  <a href="https://cloud.google.com/products/chronicle" target="_blank"><img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Chronicle"/></a>
+  <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic%20Stack-005571?&style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic"/></a>
+  <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Sentinel"/></a>
+  <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/></a>
+</div>
+
+### Scripting & CLI
+<div>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
+  <a href="https://www.microsoft.com/en-us/powershell" target="_blank"><img src="https://img.shields.io/badge/-PowerShell-2E2E2E?&style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python%20Basics-3776AB?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+</div>
+
+### Virtualization & Remote Access
+<div>
+  <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank"><img src="https://img.shields.io/badge/-VMware%20Workstation-607078?&style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation"/></a>
+  <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/" target="_blank"><img src="https://img.shields.io/badge/-Hyper--V-0078D4?&style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V"/></a>
+  <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/-Vultr-0080FF?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr"/></a>
+  <a href="https://www.paloaltonetworks.com/cyberpedia/what-is-globalprotect" target="_blank"><img src="https://img.shields.io/badge/-GlobalProtect-003B49?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="GlobalProtect"/></a>
+  <a href="https://openvpn.net/" target="_blank"><img src="https://img.shields.io/badge/-OpenVPN-0079E2?&style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN"/></a>
+  <a href="https://www.sonicwall.com/" target="_blank"><img src="https://img.shields.io/badge/-SonicWall-1D5D6A?&style=for-the-badge&logo=sonicwall&logoColor=white" alt="SonicWall"/></a>
+</div>
+
+### Communication & Collaboration
+<div>
+  <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?&style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Teams"/></a>
+  <a href="https://www.ringcentral.com/" target="_blank"><img src="https://img.shields.io/badge/-RingCentral-00B0D7?&style=for-the-badge&logo=ringcentral&logoColor=white" alt="RingCentral"/></a>
 </div>
 
 ### Digital Forensics
 <div>
-  <a href="https://www.sleuthkit.org/autopsy/" target="_blank"><img src="https://img.shields.io/badge/-Autopsy-F4A261?&style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy Badge"/></a>
-</div>
+  <a href="https://www.sleuthkit.org/autopsy/" target="_blank"><img src="https://img.shields.io/badge/-Autopsy-F4A261?&style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy"/></a>
+</div>                    
 
-### Network Monitoring & Network Security
+---
+
+### Certifications & Training
+
 <div>
-  <a href="https://www.arubanetworks.com/" target="_blank"><img src="https://img.shields.io/badge/-Aruba%20Networks-0075B8?&style=for-the-badge&logo=aruba&logoColor=white" alt="Aruba Networks Badge"/></a>
-  <a href="https://www.masergy.com/" target="_blank"><img src="https://img.shields.io/badge/-Masergy-0080FF?&style=for-the-badge&logo=masergy&logoColor=white" alt="Masergy Badge"/></a>
-  <a href="https://www.meraki.com/" target="_blank"><img src="https://img.shields.io/badge/-Cisco%20Meraki-008C42?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Meraki Badge"/></a>
-  <a href="https://www.nmap.org/" target="_blank"><img src="https://img.shields.io/badge/-Nmap-00B5E2?&style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap Badge"/></a>
-  <a href="https://www.ui.com/" target="_blank"><img src="https://img.shields.io/badge/-Ubiquiti-0073B7?&style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti Badge"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge"/></a>
-</div>
-
-### Red Team Tools (DVWA Project)
-###### Tools highlighted from Red Team DVWA Project
-<!-- Tools highlighted from Red Team DVWA Project -->
-<div>
-  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Badge"/></a>
-  <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/-Vultr-0080FF?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr Badge"/></a>
-  <a href="https://github.com/digininja/DVWA" target="_blank"><img src="https://img.shields.io/badge/-DVWA-444444?&style=for-the-badge&logo=php&logoColor=white" alt="DVWA Badge"/></a>
-  <a href="https://nmap.org" target="_blank"><img src="https://img.shields.io/badge/-Nmap-00B5E2?&style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap Badge"/></a>
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/-Burp%20Suite-E34F26?&style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite Badge"/></a>
-  <a href="https://www.zaproxy.org/" target="_blank"><img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?&style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP Badge"/></a>
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/-Metasploit-2F3A4D?&style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit Badge"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge"/></a>
-</div>
-
-
-### SIEM
-<div>
-  <a href="https://cloud.google.com/products/chronicle" target="_blank"><img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Chronicle Badge"/></a>
-  <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic Stack-005571?&style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Badge"/></a>
-  <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel Badge"/></a>
-  <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Badge"/></a>
-</div>
-
-
-### Scripting / Command Line / Terminal
-<div>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/></a>
-  <a href="https://www.microsoft.com/en-us/powershell" target="_blank"><img src="https://img.shields.io/badge/-PowerShell-2E2E2E?&style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python%20Basics-3776AB?&style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/></a>
-</div>
-
-
-### Threat Detection, Intelligence, & Prevention
-<div>
-  <a href="https://www.mimecast.com/" target="_blank"><img src="https://img.shields.io/badge/-Mimecast-95C5A2?&style=for-the-badge&logo=mimecast&logoColor=white" alt="Mimecast Badge"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/security" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Defender-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender Badge"/></a>
-  <a href="https://www.proofpoint.com/" target="_blank"><img src="https://img.shields.io/badge/-Proofpoint-4A90E2?&style=for-the-badge&logo=proofpoint&logoColor=white" alt="Proofpoint Badge"/></a>
-  <a href="https://www.malwarebytes.com/threatdown" target="_blank"><img src="https://img.shields.io/badge/-ThreatDown-0077FF?&style=for-the-badge&logo=malwarebytes&logoColor=white" alt="ThreatDown Badge"/></a>
-</div>
-
-### Ticketing Systems
-<div>
-  <a href="https://www.connectwise.com/" target="_blank"><img src="https://img.shields.io/badge/-ConnectWise-0093D6?&style=for-the-badge&logo=connectwise&logoColor=white" alt="ConnectWise Badge"/></a>
-<a href="https://www.nilear.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Nilear-0085CA?&style=for-the-badge&logoColor=white" alt="Nilear Badge"/></a>
-
-</div>
-
-### Vulnerability Management
-<div>
-  <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.shields.io/badge/-Nessus-71B500?&style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus Badge"/></a>
-</div>
-
-### Multi-Factor Authentication (MFA) / Identity Management
-<div>
-  <a href="https://www.cisco.com/c/en/us/products/security/duo.html" target="_blank"><img src="https://img.shields.io/badge/-Cisco%20Duo-1D7AA2?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Duo Badge"/></a>
-</div>
-
-### Virtualization
-<div>
-<a href="https://www.vmware.com/products/vsphere.html" target="_blank">
-  <img src="https://img.shields.io/badge/-vSphere-607078?&style=for-the-badge&logo=vmware&logoColor=white" alt="vSphere Badge"/></a>
-  <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/-Vultr-0080FF?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr Badge"/></a>
-</div>
-
-### VPN
-<div>
-  <a href="https://www.paloaltonetworks.com/cyberpedia/what-is-globalprotect" target="_blank"><img src="https://img.shields.io/badge/-GlobalProtect-003B49?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="GlobalProtect Badge"/></a>
-<a href="https://www.ivanti.com/products/ivanti-connect-secure" target="_blank">
-  <img src="https://img.shields.io/badge/-Ivanti%20Pulse%20Secure-E03C31?&style=for-the-badge&logo=ivanti&logoColor=white" alt="Ivanti Pulse Secure Badge"/></a>
-  <a href="https://openvpn.net/" target="_blank"><img src="https://img.shields.io/badge/-OpenVPN-0079E2?&style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" /></a>
-<a href="https://www.sonicwall.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-SonicWall-1D5D6A?&style=for-the-badge&logo=sonicwall&logoColor=white" alt="SonicWall Badge"/></a>
-
-
-</div>
-                                                                                                                                                                                                                                                                                                                                       
-## Certifications
-<div>
-<a href="https://www.credly.com/earner/earned/badge/ac7aeb28-5369-48f5-93e9-6891ea75fa62" target="_blank"><img src="https://img.shields.io/badge/-CompTIA Security%2B-3d168a?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/></a>
-<a href="https://www.credly.com/badges/46191b34-469a-4d29-bc71-e8e74a252bff" target="_blank"><img src="https://img.shields.io/badge/-CompTIA Network%2B-1841f5?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+ Badge"/></a>
-<a href="https://www.credly.com/badges/7661deae-6d01-4e95-9214-6563f7a43ff9" target="_blank"><img src="https://img.shields.io/badge/-CompTIA A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Badge"/></a>
-<img src="https://img.shields.io/badge/-ITIL%20v4%20Foundations-6A0DAD?&style=for-the-badge"/>
-<a href="https://www.credly.com/badges/f0c9a9cf-1a00-47df-b207-496ba8711630" target="_blank"><img src="https://img.shields.io/badge/-ISC2%20(SSCP)-FF5733?&style=for-the-badge&logo=isc2&logoColor=white"
-<a href="https://www.credly.com/earner/earned/badge/b20cff43-baa8-461c-ac60-aa07cf2abd31" target="_blank"><img src="https://img.shields.io/badge/-Google%20IT%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google IT Professional Badge"/></a>
-<a href="https://www.credly.com/earner/earned/badge/f4fdad42-59d4-4932-a802-e89ca59727e4" target="_blank"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge"/></a>
+<a href="https://www.credly.com/earner/earned/badge/ac7aeb28-5369-48f5-93e9-6891ea75fa62" target="_blank"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-3d168a?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/></a>
+<a href="https://www.credly.com/badges/46191b34-469a-4d29-bc71-e8e74a252bff" target="_blank"><img src="https://img.shields.io/badge/-CompTIA%20Network%2B-1841f5?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+ Badge"/></a>
+<a href="https://www.credly.com/badges/7661deae-6d01-4e95-9214-6563f7a43ff9" target="_blank"><img src="https://img.shields.io/badge/-CompTIA%20A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Badge"/></a>
+<img src="https://img.shields.io/badge/-ITIL%20v4%20Foundations-6A0DAD?&style=for-the-badge" alt="ITIL v4 Foundations Badge"/>
+<a href="https://www.credly.com/badges/f0c9a9cf-1a00-47df-b207-496ba8711630" target="_blank"><img src="https://img.shields.io/badge/-ISC2%20SSCP-FF5733?&style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 SSCP Badge"/></a>
+<a href="https://www.credly.com/earner/earned/badge/b20cff43-baa8-461c-ac60-aa07cf2abd31" target="_blank"><img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Professional Badge"/></a>
+<a href="https://www.credly.com/earner/earned/badge/f4fdad42-59d4-4932-a802-e89ca59727e4" target="_blank"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-34A853?&style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge"/></a>
 <a href="https://www.credly.com/badges/a9a5c02f-bc2c-41b1-a13b-8dde8684c3bb" target="_blank"><img src="https://img.shields.io/badge/-LPI%20Linux%20Essentials-2C3E50?&style=for-the-badge&logo=linux&logoColor=white" alt="LPI Linux Essentials Badge"/></a>
+<img src="https://img.shields.io/badge/-DISA%20eMASS%20CBT%20Certificate-1C3F95?&style=for-the-badge&logoColor=white" alt="DISA eMASS CBT Certificate Badge"/>
+<img src="https://img.shields.io/badge/-SAP%20USA%20Cybersecurity%20Engineering%20Internship-003366?&style=for-the-badge&logo=sap&logoColor=white" alt="SAP USA Cybersecurity Engineering Internship Badge"/>
+
+##### Hands-on training / practice platforms
+<a href="https://www.hackthebox.com" target="_blank"><img src="https://img.shields.io/badge/-HackTheBox-000000?&style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Badge"/></a>
+<a href="https://tryhackme.com" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-FF6A00?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/></a>
+<a href="https://letsdefend.io" target="_blank"><img src="https://img.shields.io/badge/-LetsDefend-1E90FF?&style=for-the-badge&logo=securityscorecard&logoColor=white" alt="LetsDefend Badge"/></a>
 
 </div>
 
@@ -256,7 +230,7 @@ My goal is to continue making a meaningful impact by securing critical infrastru
 - <a href="https://github.com/JKZH-Cyber/Web-Application-Penetration-Testing-with-DVWA">Web Application Penetration Testing with DVWA</a>  
 - <a href="https://github.com/JKZH-Cyber/JKZH-Azure-Sentinel-Honeypot-Project">Azure Sentinel Honeypot Project</a>  
 - <a href="https://github.com/JKZH-Cyber/AD-DS-RMF-Control-Mapping-Project-with-eMASS-Alignment">AD DS RMF Mapping Project</a>  
-
+- <a href="https://github.com/JKZH-Cyber/JKZH-Red-Hat-Enterprise-Linux-10-Vulnerability-Scanning-and-Remediation">RHEL 10 Vulnerability Scanning & Remediation</a>
 
 ## Disclaimer
 All projects in this portfolio were built in controlled lab environments strictly for educational and skill development purposes. No sensitive or production data was used, and all resources were fully decommissioned before being made public.  
